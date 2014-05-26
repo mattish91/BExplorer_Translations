@@ -393,7 +393,7 @@
     <system:String x:Key="txtAspectRatio">Behåll samma förhållande</system:String>
     <!-- Customize Quick Access Toolbar dialog -->
     <system:String x:Key="txtMoreCommands">Mer Kommandon</system:String>
-    <system:String x:Key="txtAdd">Läggtill</system:String>
+    <system:String x:Key="txtAdd">Lägg till</system:String>
     <system:String x:Key="txtRemove">Tabort</system:String>
     <system:String x:Key="txtMoveUp">flytta Upp</system:String>
     <system:String x:Key="txtMoveDown">Flytta Ner</system:String>
